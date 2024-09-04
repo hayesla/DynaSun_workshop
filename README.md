@@ -15,3 +15,6 @@ You can also use binder instead if you'd prefer
 
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hayesla/DynaSun_workshop/HEAD)
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8cd593e8-5b4f-4ac9-a828-50f378535aed" width="400">
+</div>
