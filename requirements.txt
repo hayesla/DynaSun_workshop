@@ -1,0 +1,5 @@
+sunpy[all]
+ipympl
+astroquery
+sunpy-soar
+ipywidgets
