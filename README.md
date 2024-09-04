@@ -12,5 +12,6 @@ You can also run these notebooks on google colab (you wont need to install anyth
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hayesla/DynaSun_workshop/blob/main/sunpy_dynasun_tutorial.ipynb)
 
 You can also use binder instead if you'd prefer
+
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hayesla/DynaSun_workshop/HEAD)
 
